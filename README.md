@@ -41,3 +41,5 @@ python bot.py
 > The Bot need boost point to generate image if you run out the boost point in bing generator the bot may fail request or take longer time to generate
 
 ![boostpoint](./assets/boost_point.png)
+
+>The project inspire by acheong08/BingImageCreator repo
