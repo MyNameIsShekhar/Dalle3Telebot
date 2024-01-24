@@ -2,12 +2,7 @@
 
 ### DEMO
 
-<div style="text-align:center">
-    <video width="640" height="360" controls>
-        <source src="./assets/demo_video.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
+![demogif](https://telegra.ph/file/1974af646acc40621aac7.gif)
 
 ### GET BOT TOKEN
 <div style="text-align:center">
