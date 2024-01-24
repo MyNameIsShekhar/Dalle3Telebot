@@ -1,0 +1,8 @@
+BotConfig:
+  TOKEN: YOUR_BOT_TOKEN
+
+Cookies:
+  value: YOUR_COOKIES
+
+Logging:
+  level: INFO

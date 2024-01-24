@@ -1,0 +1,8 @@
+httpx
+requests
+aiohttp
+regex
+PyYAML
+telebot
+uvicorn
+fastapi
